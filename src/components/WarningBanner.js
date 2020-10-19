@@ -14,6 +14,9 @@ function WarningBanner(props){
 const warning = {
     backgroundColor: "#ff0000",
     color: "white",
+    padding: "5px",
+    textAlign: "center",
+    marginBottom: "15px",
 };
 
 export default WarningBanner;
